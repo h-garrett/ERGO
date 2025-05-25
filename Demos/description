@@ -1,1 +1,5 @@
 This folder contains a collection of demo videos from this project
+
+ergoDemo1: This is the first demo footage recorded. At this point, I had built the player model, created basic animations, and set up a player controller script as well as the dashing effect.
+
+ergoDemo2: Created attack animations.
