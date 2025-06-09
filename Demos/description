@@ -7,3 +7,5 @@ ergoDemo2: Created attack animations.
 ergoDemo3: Updated attack animations and added hitboxes, still needs more fine tuning.
 
 ergoDemo4: Added basic audio and hit effects. Also began experimenting with tilemaps for the floor.
+
+ergoDemo5: Added particle effects and an enemy health bar.
